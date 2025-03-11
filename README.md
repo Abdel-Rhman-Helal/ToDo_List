@@ -46,3 +46,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 This project was inspired by the need for a simple, mobile-friendly todo list app.
+
+You can also try it [here](https://snack.expo.dev/@helal_abdelrahman/todo_list) on expo website.
